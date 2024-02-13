@@ -3,7 +3,7 @@ This repository contains the code and resources for the talk LLM 101, presented 
 
 ## Resources
 - **Slides**: [LLMs 101: A comprehensive introduction to Large Language Models](https://docs.google.com/presentation/d/1u0_Mk9EAk9sAJMNwtUreUnCnFKwwuKgTmKNBNsUKTAc/edit?usp=sharing)
-- **Code**: [Super Bowl Ad Brief Generator](https://github.com/SabriDW/LLM-101-Talk-NYCAIU)
+- **Code**: [Super Bowl Ad Brief Generator](https://colab.research.google.com/github/SabriDW/LLM-101-Talk-NYCAIU/blob/main/Demo.ipynb)
 
 ## References
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
